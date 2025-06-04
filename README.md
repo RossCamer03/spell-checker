@@ -3,7 +3,7 @@ Group project for 2212A.
 
 Program runs by running GUI.java
 
-Make sure to use the whole group8 folder as the project.
+Make sure to use the whole SpellChecker folder as the project.
 If you don't, you will have to update the path to the words_alpha.txt, this is found in the dictionary.java
 
 Help/Steps (How to use)
